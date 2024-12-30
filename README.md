@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pravin
-- 👀 VC++(MFC), MAC(COCOA), Android, iOS(COCOA, SWIFT), ESP-IDF Developer
+- 👀 C, C++, VC++(MFC), MAC(COCOA), Android, iOS(COCOA, SWIFT), ESP-IDF Developer
 
 <!---
 gawadepd07/gawadepd07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
